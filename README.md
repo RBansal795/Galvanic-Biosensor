@@ -5,3 +5,6 @@ Consider https://pmc.ncbi.nlm.nih.gov/articles/PMC9603244/
 
 When a person is stressed, their sweat glands open up, increasing the resistivity of the skin. This project aims to use this property in order to measure the stress levels of 
 the subject human. For this project, I am using a custom PCB (KiCad progress included), an Arduino Uno, pinned connecting wires, and two coins as the base sensors for two fingers. Schematics, PCB designs, and code are included in this repository in their own respective folders.
+
+
+Please feel free to contact me at ruhibans55@gmail.com or ruhi.bansal@berkeley.edu for questions. 
